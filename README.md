@@ -14,3 +14,4 @@ Finance/investing apps (Robinhood, Acorns, )
 
 ## Apps
 Robinhood (Fenil)
+Acorns (Esteban)
